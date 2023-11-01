@@ -2,7 +2,7 @@
 
 I'm a Java Developer with a passion for software development.
 
-## 🌱 I'm Currently Learning
+## 🌱 I'm Currently Working on my own website  taht iam going to use for my business
 
 I'm actively learning and working on improving my skills in:
 
