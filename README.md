@@ -24,7 +24,7 @@ I'm open to collaborating on interesting projects related to my skills. If you h
 
 ## 📫 How to Reach Me
 
-You can connect with me via email at sulemandodmani@gmail.com. I'm also active on www.linkedin.com/in/sulemanbhasha-dodmani-224bbb284 if you'd like to connect and chat about technology, projects, or anything else.
+You can connect with me via email at sulemandodmani4@gmail.com. I'm also active on www.linkedin.com/in/sulemanbhasha-dodmani-224bbb284 if you'd like to connect and chat about technology, projects, or anything else.
 
 <!---
 Anfal12345/Anfal12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
